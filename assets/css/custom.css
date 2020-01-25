@@ -1,0 +1,24 @@
+h1, h2 {
+    text-align: center;
+    color: rgb(120, 64, 172);
+}
+
+#contenido {
+    margin-top: 40px;
+}
+.borrar-tweet,
+.borrar-tweet:hover {
+    float: right;
+    cursor: pointer;
+    color: rgb(190, 93, 93);
+    font-weight: bold;
+}
+
+label{
+    color: rgb(120, 64, 172);
+}
+
+.button-primary{
+    background: rgb(182, 125, 236) !important;
+    border-color: rgb(182, 125, 236) !important;
+}
